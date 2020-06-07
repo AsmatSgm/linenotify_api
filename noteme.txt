@@ -1,0 +1,7 @@
+1.index.php
+2.line-notify.php
+
+=====================
+1. https://notify-bot.line.me/en/
+2. Generate access token => C0f7VsHSGgZfJAQHYemvKBSHgJrILkxLM1oL9yoMkWY
+^^
